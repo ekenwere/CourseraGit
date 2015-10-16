@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "test"
+
+# git add -A
+#git commit -m third
+#git push
